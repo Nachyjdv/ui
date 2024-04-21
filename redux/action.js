@@ -1,2 +1,2 @@
-export const USER_LOGIN_ID = "123456";
-export const USER_DATA = "login123";
+export const USER_LOGIN_ID = "USER_LOGIN_ID";
+export const USER_DATA = "USER_DATA";
